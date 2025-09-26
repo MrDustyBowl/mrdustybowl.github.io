@@ -1,5 +1,5 @@
 # BPSR: Guide complet du Wind Knight (spec Skyward)
-(Ceci est une traduction française du guide rédigé par s.now_ (s.now25))
+Ceci est une traduction française du guide rédigé par s.now_ (s.now25): [Guide en anglais](https://s-now25.github.io/bpsr-skyward-guide/)
 - [Introduction](#introduction)
 - [Compétences](#compétences)
   - [Attaque de base](#attaque-de-base-(clique-gauche-de-la-souris))
