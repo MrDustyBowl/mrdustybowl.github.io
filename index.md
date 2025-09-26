@@ -331,7 +331,7 @@ Actuellement, je n’ai pas assez de données pour dire s’il existe des breakp
 
 Ma recommandation, triée par priorité :
 - Force
-- Dégâts Elites
+- Dégât vs Élite
 - Agilité
   - Donne des dégâts physiques fixes, de l’agilité et une augmentation des dégâts physiques. L’agilité augmente également la célérité pour cette classe.
 - Vitesse d'attaque
