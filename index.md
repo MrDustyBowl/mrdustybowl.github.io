@@ -160,7 +160,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 ### Wind and Thunder
 
--Quand le [buff Galeform](#buff-galeform) se dissipe, il applique un second buff: Wind and Thunder. Le [buff Galeform](#buff-galeform) doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si le [buff Galeform](#buff-galeform) est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
+- Quand le [buff Galeform](#buff-galeform) se dissipe, il applique un second buff: Wind and Thunder. Le [buff Galeform](#buff-galeform) doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si le [buff Galeform](#buff-galeform) est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
 
 ![Wind and Thunder](assets/windnthunder.png)
 
@@ -294,7 +294,7 @@ Pour référence, mon personnage avec un équipement niveau 60 est à 25% de vit
 
 #### Chance (Luck)
 
-Avec la mise à jour d’équilibrage de classe du 28/08, la Chance va désormais scaler un peu, voir la section sur [Instant Edge](#instant-edge) Combo.
+Avec la mise à jour d’équilibrage de classe du 28/08, la Chance va désormais scaler un peu, voir la section sur [Instant Edge Combo](#instant-edge-combo).
 
 Actuellement, je n’ai pas assez de données pour dire s’il existe des breakpoints ou un sweet spot à atteindre. Pour l’instant, je recommande donc simplement de viser un set de classe 6 pièces et de ne pas chercher à augmenter la Chance de manière spécifique.
 
