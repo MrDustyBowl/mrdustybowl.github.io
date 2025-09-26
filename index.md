@@ -1,4 +1,4 @@
-# BPSR: Guide compréhensif de la classe Wind Knight (spec Skyward)
+# BPSR: Guide complet du Wind Knight (spec Skyward)
 (Ceci est une traduction française du guide rédigé par s.now_ (s.now25))
 - [Introduction](#introduction)
 - [Compétences](#compétences)
