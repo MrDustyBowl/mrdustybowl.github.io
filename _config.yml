@@ -2,3 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: "Guide français du Skyward Wind Knight"
 plugins:
 - jekyll-remote-theme
+
+github:
+  is_project_page: true
+  repository_url: https://https://github.com/MrDustyBowl/mrdustybowl.github.io
