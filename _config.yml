@@ -1,0 +1,5 @@
+title: "Guide français du Skyward Wind Knight"
+description: "Une traduction par DustyBowl du guide Skyward Wind Knight créé par s.now25"
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
